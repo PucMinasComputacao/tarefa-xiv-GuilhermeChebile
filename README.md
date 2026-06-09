@@ -32,14 +32,16 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Guilherme Luiz Santos Chebile
+- Matricula: 908179
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Print 1](/public/imgs/Screenshot%202026-06-09%20153608.png)
 
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Print 2](/public/imgs//Screenshot%202026-06-09%20153552.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+
 
